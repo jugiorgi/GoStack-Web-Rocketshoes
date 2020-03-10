@@ -10,4 +10,5 @@ yarn start
 json-server server.json -p 3333
 ```
 
-![detalhe](detalhe.png)
+![home](/src/assets/prints/home.png)
+![cart](/src/assets/prints/cart.png)
