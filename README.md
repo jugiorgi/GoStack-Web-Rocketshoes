@@ -15,11 +15,8 @@ yarn start
 json-server server.json -p 3333
 ```
 
-
+##### Aplicação
 
 ![home](/src/assets/prints/home.png)
-
-
-
 
 ![cart](/src/assets/prints/cart.png)
